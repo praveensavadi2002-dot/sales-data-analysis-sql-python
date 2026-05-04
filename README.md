@@ -48,11 +48,11 @@ Includes both intermediate and advanced SQL queries (JOINs, window functions, da
 
 Monthly Revenue
 
-"Monthly Revenue" (images/monthly_revenue.png)
+"Monthly Revenue" (images/monthly_revenue.jpg)
 
 Category-wise Sales
 
-"Category Sales" (images/category_sales.png)
+"Category Sales" (images/category_sales.jpg)
 
 ---
 
