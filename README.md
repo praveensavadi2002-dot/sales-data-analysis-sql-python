@@ -12,6 +12,16 @@ This project analyzes sales data to generate meaningful business insights using 
 
 ---
 
+❓ Business Questions Answered
+
+- What is the monthly revenue trend?
+- Which product category generates the most revenue?
+- Who are the top customers?
+- Are there repeat customers?
+- Which cities generate the highest sales?
+
+---
+
 🛠 Tools & Technologies
 
 - SQL (Joins, Aggregations, Window Functions)
@@ -38,6 +48,15 @@ This project analyzes sales data to generate meaningful business insights using 
 
 ---
 
+🧠 SQL Highlights
+
+- Used "GROUP BY" for aggregations
+- Applied "HAVING" for filtering aggregated results
+- Used "ORDER BY" for ranking outputs
+- Structured queries for business insights
+
+---
+
 📈 SQL Coverage
 
 Includes both intermediate and advanced SQL queries (JOINs, window functions, database design)
@@ -56,11 +75,12 @@ Category-wise Sales
 
 ---
 
-📈 Insights
+📈 Key Insights
 
-- Revenue shows strong peaks in June and December due to high-value electronics purchases
-- Stationery products contribute high sales volume but lower revenue
-- Electronics generate high revenue with fewer transactions
+- Revenue peaks in June and December due to high-value electronics purchases
+- Electronics contribute highest revenue despite fewer transactions
+- Stationery products generate consistent but lower revenue
+- Customer purchasing behavior shows repeat buyers contribute significantly
 - Seasonal trends indicate opportunities for targeted marketing
 
 ---
